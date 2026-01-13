@@ -17515,7 +17515,7 @@ const gE = () => {
             backgroundRepeat: "no-repeat",
           },
         }),
-        y.jsx("div", { className: "absolute inset-0 z-10 bg-background/60" }),
+        y.jsx("div", { className: "absolute inset-0 z-10 bg-background/40" }),
         y.jsxs("div", {
           className:
             "relative z-20 container mx-auto px-4 pt-28 sm:pt-32 pb-16",
