@@ -17463,18 +17463,6 @@ const gE = () => {
                 y.jsx("span", {
                   className: "w-2 h-2 rounded-full bg-green-500 animate-pulse",
                 }),
-                y.jsxs("span", {
-                  className:
-                    "text-primary font-display text-xs sm:text-sm tracking-wider",
-                  children: [
-                    "Live MC:",
-                    " ",
-                    y.jsx("span", {
-                      className: "text-foreground font-semibold",
-                      children: e || "Loading...",
-                    }),
-                  ],
-                }),
               ],
             }),
           ],
