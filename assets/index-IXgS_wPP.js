@@ -17554,7 +17554,7 @@ const gE = () => {
                     "order-3 flex flex-row md:flex-col flex-wrap justify-center gap-3 md:gap-4",
                   children: [
                     y.jsxs("a", {
-                      href: "https://x.com/blackwhaleErc",
+                      href: "https://x.com/aidenguo_erc",
                       target: "_blank",
                       rel: "noopener noreferrer",
                       className: "social-btn px-4 py-2 md:px-6 md:py-3",
@@ -17573,7 +17573,7 @@ const gE = () => {
                       ],
                     }),
                     y.jsxs("a", {
-                      href: "https://t.me/blackwhaleErc",
+                      href: "https://t.me/aidenguo_erc",
                       target: "_blank",
                       rel: "noopener noreferrer",
                       className:
@@ -18034,10 +18034,10 @@ const gE = () => {
   KE = () => {
     const [e, t] = S.useState(!1),
       n = [
-        { icon: xg, href: "https://x.com/blackwhaleErc", label: "Twitter" },
+        { icon: xg, href: "https://x.com/aidenguo_erc", label: "Twitter" },
         {
           icon: Sg,
-          href: "https://t.me/blackwhaleErc",
+          href: "https://t.me/aidenguo_erc",
           label: "Telegram",
         },
         {
