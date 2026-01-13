@@ -18150,7 +18150,7 @@ const gE = () => {
               children: [
                 y.jsx("p", {
                   className: "text-cream/40 text-sm",
-                  children: "© 2025 $Aiden. All rights reserved.",
+                  children: "© 2026 $Aiden. All rights reserved.",
                 }),
                 y.jsx("p", {
                   className: "text-cream/30 text-xs mt-2",
