@@ -17443,12 +17443,6 @@ const gE = () => {
                 "glass-dark rounded-full px-4 sm:px-8 py-3 inline-flex items-center gap-4 sm:gap-8 max-w-full overflow-x-auto",
               children: [
                 y.jsx("a", {
-                  href: "#memes",
-                  className:
-                    "text-foreground font-display uppercase tracking-[0.15em] text-xs sm:text-sm hover:text-primary transition-colors duration-300 whitespace-nowrap",
-                  children: "Memes",
-                }),
-                y.jsx("a", {
                   href: "#how-to-buy",
                   className:
                     "text-foreground font-display uppercase tracking-[0.15em] text-xs sm:text-sm hover:text-primary transition-colors duration-300 whitespace-nowrap",
@@ -17749,7 +17743,7 @@ const gE = () => {
     {
       number: "03",
       title: "Swap for $Aiden",
-      description: "Use Jupiter to swap your ETH for $Aiden",
+      description: "Use Uniswap to swap your ETH for $Aiden",
       link: null,
     },
   ],
