@@ -17522,7 +17522,7 @@ const gE = () => {
           children: [
             y.jsx("h1", {
               className: "sr-only",
-              children: "The Black Whale ($BlackWhale) Memecoin on Solana",
+              children: "Aiden Guo ($Aiden) Memecoin on Solana",
             }),
             y.jsxs("div", {
               className:
@@ -17561,7 +17561,7 @@ const gE = () => {
                     rel: "noopener noreferrer",
                     children: y.jsx("img", {
                       src: vE,
-                      alt: "The Black Whale",
+                      alt: "Aiden Guo",
                       className:
                         "w-52 sm:w-64 md:w-80 lg:w-[420px] h-auto drop-shadow-2xl cursor-pointer hover:scale-105 transition-transform duration-300",
                     }),
@@ -17748,8 +17748,8 @@ const gE = () => {
     },
     {
       number: "03",
-      title: "Swap for $BlackWhale",
-      description: "Use Jupiter to swap your ETH for $BlackWhale",
+      title: "Swap for $Aiden",
+      description: "Use Jupiter to swap your ETH for $Aiden",
       link: null,
     },
   ],
@@ -17887,7 +17887,7 @@ const gE = () => {
                   children: y.jsx("p", {
                     className:
                       "font-display text-2xl md:text-3xl text-foreground tracking-wider",
-                    children: "ETH → $BlackWhale",
+                    children: "ETH → $Aiden",
                   }),
                 }),
                 y.jsx("div", {
@@ -17943,7 +17943,7 @@ const gE = () => {
                 }),
                 y.jsx("p", {
                   className: "text-cream/60 text-lg max-w-2xl mx-auto",
-                  children: "Track $BlackWhale price action in real-time",
+                  children: "Track $Aiden price action in real-time",
                 }),
               ],
             }),
@@ -17960,7 +17960,7 @@ const gE = () => {
                   children: y.jsx("iframe", {
                     src: "https://dexscreener.com/ethereum/0xComingSoon?embed=1&theme=dark&trades=0&info=0",
                     className: "w-full h-[420px] sm:h-[500px] md:h-[600px]",
-                    title: "$BlackWhale Live Chart",
+                    title: "$Aiden Live Chart",
                     allow: "clipboard-write",
                     loading: "lazy",
                   }),
@@ -18150,7 +18150,7 @@ const gE = () => {
               children: [
                 y.jsx("p", {
                   className: "text-cream/40 text-sm",
-                  children: "© 2025 $BlackWhale. All rights reserved.",
+                  children: "© 2025 $Aiden. All rights reserved.",
                 }),
                 y.jsx("p", {
                   className: "text-cream/30 text-xs mt-2",
